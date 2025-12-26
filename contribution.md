@@ -13,4 +13,4 @@ Thanks to all the amazing people who have contributed to **AlumX's Frontend Repo
 
 ## 🌱 Contributors
 - Harsh Warkade (@HarshKumar-25)
-
+- Jatin (@thenix09)
