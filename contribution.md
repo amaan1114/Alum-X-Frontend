@@ -20,3 +20,4 @@ Thanks to all the amazing people who have contributed to **AlumX's Frontend Repo
 - Harshvardhan0 (@HARSH4885-svg)
 - Omdeep (@omicoded19)
 - Lavay Garg (@lavaygarg)
+- Manisha katariya (@chanchukatariya5-gif)
